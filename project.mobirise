@@ -52,7 +52,7 @@
     ],
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "lwmb2zzenf",
+    "mbrsiteDomain": "myiluzshwk",
     "imageResize": true,
     "cssOptimize": true,
     "lazyLoad": false,
@@ -73,7 +73,7 @@
     "gdpr": false,
     "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-8MX1TZ9VWH\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-8MX1TZ9VWH');\n</script>",
     "site_lang": "en",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
